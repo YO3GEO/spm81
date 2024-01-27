@@ -53,12 +53,12 @@ ENABLE_TX_WHEN_AM                := 0
 ENABLE_F_CAL_MENU                := 0
 ENABLE_TX_UNLOCK                 := 0
 ENABLE_CTCSS_TAIL_PHASE_SHIFT    := 1
-ENABLE_CONTRAST                  := 1
+ENABLE_CONTRAST                  := 0
 ENABLE_BOOT_BEEPS                := 0
-ENABLE_DTMF_CALL_FLASH_LIGHT     := 1
+ENABLE_DTMF_CALL_FLASH_LIGHT     := 0
 ENABLE_FLASH_LIGHT_SOS_TONE      := 0
 ENABLE_SHOW_CHARGE_LEVEL         := 0
-ENABLE_REVERSE_BAT_SYMBOL        := 1
+ENABLE_REVERSE_BAT_SYMBOL        := 0
 ENABLE_FREQ_SEARCH_LNA           := 1
 ENABLE_FREQ_SEARCH_TIMEOUT       := 0
 ENABLE_CODE_SEARCH_TIMEOUT       := 0
@@ -81,7 +81,7 @@ ENABLE_TX_AUDIO_BAR              := 1
 # Side Button Menu 300 B
 ENABLE_SIDE_BUTT_MENU            := 0
 # Key Lock 400 B
-ENABLE_KEYLOCK                   := 1
+ENABLE_KEYLOCK                   := 0
 ENABLE_PANADAPTER                := 1
 #ENABLE_SINGLE_VFO_CHAN          := 0
 
